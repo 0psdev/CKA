@@ -1,5 +1,5 @@
 # CKA
-sheet for CKA exam
+Sheet for CKA exam
 
 Part 1 -> Cluster Architecture <a href="https://github.com/0psdev/CKA/blob/main/Part%201.pdf" target="_blank">Part I.pdf</a>
 
